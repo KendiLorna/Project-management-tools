@@ -1,5 +1,5 @@
 # Project-management-tools
-1.	Excel Gannt Chart
+1.	Excel Gantt Chart
 
 [Chart](https://docs.google.com/spreadsheets/d/1ZZZNzk3HUhm0k35yN1nbqTVhUnEsrt0Ow264S0j-dX0/copy?usp=drive_link)
 
